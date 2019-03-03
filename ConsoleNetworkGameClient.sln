@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleNetworkGameClient", "ConsoleNetworkGameClient\ConsoleNetworkGameClient.csproj", "{3F7DDB5C-533F-4D35-ADFA-A2AF423F38EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleNetworkGameServer", "ConsoleNetworkGameServer\ConsoleNetworkGameServer.csproj", "{AC5D4F2A-9F1C-453D-81A1-40ACD708279C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7DDB5C-533F-4D35-ADFA-A2AF423F38EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7DDB5C-533F-4D35-ADFA-A2AF423F38EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7DDB5C-533F-4D35-ADFA-A2AF423F38EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7DDB5C-533F-4D35-ADFA-A2AF423F38EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5D4F2A-9F1C-453D-81A1-40ACD708279C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5D4F2A-9F1C-453D-81A1-40ACD708279C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5D4F2A-9F1C-453D-81A1-40ACD708279C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5D4F2A-9F1C-453D-81A1-40ACD708279C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880C4029-028A-4CFE-BD14-640C4DA96938}
+	EndGlobalSection
+EndGlobal
